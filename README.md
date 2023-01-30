@@ -16,4 +16,4 @@ $ python3 -m flask run
    * ```applayer``` directory contains the logical layer for all interactions
    * ```datalayer``` directory contains the code for interfacing with data sources
 
-![architecture](docs/architecture.png)
+![architecture](https://user-images.githubusercontent.com/117398366/215562904-0fd29ef2-4ac4-4564-98b7-74f545dda696.png)
